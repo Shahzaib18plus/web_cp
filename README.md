@@ -23,10 +23,6 @@
 - C#
 - Python
 
-## 📸 Screenshots
-
-*Add screenshots here after deployment (optional).*
-
 ## 📬 Contact
 
 If you'd like to collaborate or reach out:
